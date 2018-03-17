@@ -1,0 +1,3 @@
+https://apigee.com/organizations/fastshop/specs/c3Rvc-Zmxk-65231
+gerenciando o api proxy usando o edge = https://docs-new.apigee.com/docs
+explicacao do Swagger RESTful API Documentation Specification = https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md#operationObject
